@@ -4,7 +4,7 @@
      ============================================================ -->
 
 <h1 align="center">Hi 👋, I'm T. Sai Kiran Sharma</h1>
-<h3 align="center">Full Stack MERN Developer | Java Learner | Open Source Enthusiast</h3>
+<h3 align="center">Full Stack  Developer | Java Learner | Open Source Enthusiast</h3>
 <p align="center"><i>Passionate Full Stack Developer | Building Modern Web Applications | Always Learning, Always Growing 🚀</i></p>
 
 <p align="center">
