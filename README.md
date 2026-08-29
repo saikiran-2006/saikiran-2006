@@ -1,6 +1,12 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/saikiran-2006/saikiran-2006/main/profile.jpg" width="150" height="150" style="border-radius: 50%;" />
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/saikiran-2006/saikiran-2006/main/WhatsApp%20Image%202026-08-22%20at%2014.52.05.jpeg"
+    width="160"
+    alt="Sai Kiran"
+  />
+</p>
 
 # Hi, I'm Sai Kiran 👋
 
