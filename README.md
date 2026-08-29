@@ -3,7 +3,7 @@
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/saikiran-2006/saikiran-2006/main/WhatsApp%20Image%202026-08-22%20at%2014.52.05.jpeg"
-    width="160"
+    width="160" border-radius="50%"
     alt="Sai Kiran"
   />
 </p>
