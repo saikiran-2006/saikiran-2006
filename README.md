@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="YOUR_PHOTO_URL_HERE" width="150" height="150" style="border-radius: 50%;" />
+<img src="https://raw.githubusercontent.com/saikiran-2006/saikiran-2006/main/profile.jpg" width="150" height="150" style="border-radius: 50%;" />
 
 # Hi, I'm Sai Kiran 👋
 
